@@ -27,8 +27,7 @@ export function AsciiPortraitCanvas({
     // Load the image
     const img = new Image()
     img.crossOrigin = "anonymous"
-    img.src =
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202024-08-19%20at%2023.09.35_bb0e84d7.jpg-vNaMYkbNtPefHIRx2bZUxvJhIofxMZ.jpeg"
+    img.src = "/placeholderimg.jpg"
 
     img.onload = () => {
       // Calculate aspect ratio and apply better cropping

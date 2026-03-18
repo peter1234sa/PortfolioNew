@@ -34,11 +34,11 @@ export function AsciiPortraitCanvas({
       const sourceWidth = img.width
       const sourceHeight = img.height
 
-      // Define crop area (focus on face and upper body)
-      const cropX = sourceWidth * 0.2 // Crop 20% from left
-      const cropY = sourceHeight * 0.05 // Crop 5% from top
-      const cropWidth = sourceWidth * 0.6 // Use 60% of width
-      const cropHeight = sourceHeight * 0.7 // Use 70% of height
+      // Define crop area (use full image by default)
+      const cropX = 0
+      const cropY = 0
+      const cropWidth = sourceWidth
+      const cropHeight = sourceHeight
 
       const aspectRatio = cropWidth / cropHeight
       const adjustedWidth = Math.floor(height * aspectRatio)

@@ -17,7 +17,7 @@ export function ContactSection() {
           </a>
           <div className="flex items-center text-sm">
             <MapPin className="h-4 w-4 mr-2 text-primary" />
-            Osaka, Japan (incoming)
+            Los Angeles, USA (incoming)
           </div>
           <a
             href="https://www.linkedin.com/in/tushir-sahu-b95549205/"

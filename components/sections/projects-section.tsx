@@ -7,19 +7,19 @@ export function ProjectsSection() {
 
       <div className="space-y-6">
         <div className="p-3 border border-primary/20 rounded bg-primary/5">
-          <h3 className="text-primary font-bold">HRMate — Using AI to Revolutionize Recruitment</h3>
+          <h3 className="text-primary font-bold">HRMate — Revolutionizing Recruitment with ML</h3>
           <p className="text-sm mb-2">
-            An AI-based applicant filtering system that analyzes resumes, conducts interviews, and forecasts success
-            using ML and NLP to streamline hiring.
+            An intelligent hiring assistant that automates resume screening, conducts interviews, and predicts candidate
+            success using NLP and ML algorithms.
           </p>
           <p className="text-xs text-muted-foreground mb-2">Technologies: Python, NLP, ML Pipelines</p>
         </div>
 
         <div className="p-3 border border-primary/20 rounded bg-primary/5">
-          <h3 className="text-primary font-bold">SpeedNet — Salient Pyramidal Encoder-Decoder Network</h3>
+          <h3 className="text-primary font-bold">PymidNet — Salient Pyramidal Encoder-Decoder Network</h3>
           <p className="text-sm mb-2">
-            Built a novel encoder-decoder architecture for semantic segmentation of colonoscopy images with a
-            pyramidal enhancement module for multi-scale feature capture.
+            Developed a novel encoder-decoder architecture for polyp segmentation in colonoscopy images, incorporating a
+            pyramidal enhancement module for multi-scale feature extraction.
           </p>
           <p className="text-xs text-muted-foreground mb-2">Technologies: PyTorch, Medical Imaging, Segmentation</p>
         </div>
@@ -27,7 +27,8 @@ export function ProjectsSection() {
         <div className="p-3 border border-primary/20 rounded bg-primary/5">
           <h3 className="text-primary font-bold">Risk Detection & Alert with Custom YOLO + SAHI</h3>
           <p className="text-sm mb-2">
-            Customized object detection for real-time risk analysis using Shibuya Crossing stream footage.
+            Implemented a real-time risk detection system using YOLO and SAHI on Shibuya Crossing footage to identify
+            safety hazards.
           </p>
           <p className="text-xs text-muted-foreground mb-2">Technologies: YOLO, SAHI, Computer Vision</p>
         </div>
@@ -35,8 +36,7 @@ export function ProjectsSection() {
         <div className="p-3 border border-primary/20 rounded bg-primary/5">
           <h3 className="text-primary font-bold">3D Segmentation of Human Vasculature</h3>
           <p className="text-sm mb-2">
-            Developed a 3D segmentation model based on Attention UNet for CT scans to improve localization and
-            delineation of vasculature.
+            Designed a 3D Attention UNet model for segmenting human vasculature from CT scans, improving localization accuracy.
           </p>
           <p className="text-xs text-muted-foreground mb-2">Technologies: Attention UNet, 3D Segmentation, PyTorch</p>
         </div>

@@ -13,9 +13,9 @@ export function ExperienceSection() {
             <p className="text-xs text-muted-foreground">GE Vernova | January 2025 - Present</p>
           </div>
           <ul className="text-sm space-y-1 list-disc pl-4">
-            <li>Raised unit test coverage of the MVM platform to 97% across multiple modules</li>
-            <li>Designed a pipeline-level ExitHandler to detect pod failures across the MLOps workflow</li>
-            <li>Improved observability with structured logging for faster incident resolution</li>
+            <li>Increased unit test coverage of the MVM platform to 97% across multiple modules.</li>
+            <li>Designed a pipeline-level ExitHandler to detect pod failures across the MLOps workflow.</li>
+            <li>Improved observability with structured logging for faster incident resolution.</li>
           </ul>
         </div>
 
@@ -26,9 +26,9 @@ export function ExperienceSection() {
             <p className="text-xs text-muted-foreground">VRAIN Solution | October 2024 - December 2024</p>
           </div>
           <ul className="text-sm space-y-1 list-disc pl-4">
-            <li>Created a fine-tuned prompt encoder for MobileSAMv2 to improve product performance</li>
-            <li>Developed a training script for MobileSAMv2 with the new prompt encoder</li>
-            <li>Added multi-head attention + FCN box refinement to replace YOLOv8-seg</li>
+            <li>Proposed a fine-tuned prompt encoder for MobileSAMv2 to improve product performance.</li>
+            <li>Developed a training script for MobileSAMv2 with the new prompt encoder.</li>
+            <li>Introduced multi-head attention + FCN box refinement to replace YOLOv8-seg.</li>
           </ul>
         </div>
 
@@ -39,8 +39,8 @@ export function ExperienceSection() {
             <p className="text-xs text-muted-foreground">PIL Lab, IIT Kanpur | May 2024 - July 2024</p>
           </div>
           <ul className="text-sm space-y-1 list-disc pl-4">
-            <li>Built an unsupervised synergistic double decoder using a pretrained model + trainable decoder</li>
-            <li>Used weight sharing via concatenated outputs to improve efficiency</li>
+            <li>Proposed an unsupervised synergistic double decoder using a pretrained model + trainable decoder.</li>
+            <li>Utilized weight sharing via concatenated outputs to enhance efficiency.</li>
           </ul>
         </div>
 
@@ -51,9 +51,9 @@ export function ExperienceSection() {
             <p className="text-xs text-muted-foreground">KasperTech | February 2024 - May 2024</p>
           </div>
           <ul className="text-sm space-y-1 list-disc pl-4">
-            <li>Built a multi-threaded video processing pipeline for real-time traffic analysis</li>
-            <li>Deployed trained models and integrated them with set servers</li>
-            <li>Optimized continuous feeds to reduce bandwidth and lag</li>
+            <li>Engineered a multi-threaded video processing pipeline for real-time traffic analysis.</li>
+            <li>Deployed trained models and integrated them with set servers.</li>
+            <li>Optimized continuous feeds to reduce bandwidth and lag.</li>
           </ul>
         </div>
       </div>

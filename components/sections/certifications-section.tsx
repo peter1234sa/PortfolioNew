@@ -16,14 +16,14 @@ export function CertificationsSection() {
             <li className="flex items-start">
               <span className="text-primary mr-2">•</span>
               <div>
-                <p className="font-medium">Udemy: Convolutional Neural Networks in Python</p>
+                <p className="font-medium">Convolutional Neural Networks in Python - Udemy</p>
                 <p className="text-xs text-muted-foreground">Computer Vision</p>
               </div>
             </li>
             <li className="flex items-start">
               <span className="text-primary mr-2">•</span>
               <div>
-                <p className="font-medium">Udemy: Machine Learning A-Z</p>
+                <p className="font-medium">Machine Learning A-Z - Udemy</p>
                 <p className="text-xs text-muted-foreground">AI + Python</p>
               </div>
             </li>

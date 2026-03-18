@@ -18,7 +18,7 @@ export function AboutSection() {
 
         <div className="space-y-3 md:w-3/5">
           <p>
-            Hi, I'm Tushir, an incoming MS (CS) student at The University of Osaka and a MEXT scholarship recipient.
+            Hi, I'm Tushir, an incoming MS (CS) student at The University of Southern California.
             I'm passionate about solving real-world problems using AI and Computer Vision.
           </p>
 
@@ -31,7 +31,7 @@ export function AboutSection() {
             <h3 className="text-primary font-bold mb-2">Personal Bio:</h3>
             <div className="space-y-2 text-sm">
               <p>
-                When I'm not coding, you'll find me doing nothing, playing guitar, or dreaming about living in Japan.
+                When I'm not coding, you'll find me doing nothing, playing guitar, or dreaming about living in LA.
               </p>
 
               <p>

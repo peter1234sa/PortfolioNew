@@ -31,7 +31,7 @@ export function AboutSection() {
             <h3 className="text-primary font-bold mb-2">Personal Bio:</h3>
             <div className="space-y-2 text-sm">
               <p>
-                When I'm not coding, you'll find me doing nothing, playing guitar, or dreaming about living in LA.
+                When I'm not coding, you'll find me doing nothing, playing guitar, or dreaming about living in Japan.
               </p>
 
               <p>
@@ -50,7 +50,7 @@ export function AboutSection() {
             <h3 className="text-primary font-bold mb-2">Quick Facts:</h3>
             <ul className="space-y-1">
               <li>
-                <span className="text-muted-foreground">Location:</span> Osaka, Japan (incoming)
+                <span className="text-muted-foreground">Location:</span> Osaka, Japan (current)
               </li>
               <li>
                 <span className="text-muted-foreground">Education:</span> Incoming MS (CS), The University of Osaka

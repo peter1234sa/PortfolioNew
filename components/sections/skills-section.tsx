@@ -24,6 +24,8 @@ export function SkillsSection() {
           <div className="space-y-2">
             <SkillBar name="Git" percentage={80} />
             <SkillBar name="Jupyter" percentage={80} />
+            <SkillBar name="Docker" percentage={75} />
+            <SkillBar name="MLops" percentage={75} />
             <SkillBar name="Data Visualization" percentage={75} />
             <SkillBar name="Linux" percentage={75} />
             <SkillBar name="C++" percentage={70} />

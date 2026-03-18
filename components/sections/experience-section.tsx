@@ -10,7 +10,7 @@ export function ExperienceSection() {
           <div className="absolute w-3 h-3 bg-primary rounded-full -left-[6.5px] top-1" />
           <div className="mb-1">
             <h3 className="text-primary font-bold">Digital Technology Intern</h3>
-            <p className="text-xs text-muted-foreground">GE Vernova | January 2025 - Present</p>
+            <p className="text-xs text-muted-foreground">GE Vernova | January 2025 - July 2025</p>
           </div>
           <ul className="text-sm space-y-1 list-disc pl-4">
             <li>Contributed to the development and maintenance of the Model Verification Manager (MVM) platform by enhancing unit

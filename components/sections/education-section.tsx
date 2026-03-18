@@ -14,8 +14,8 @@ export function EducationSection() {
             <h4 className="text-sm font-semibold">Focus Areas:</h4>
             <ul className="text-xs mt-1 space-y-1 list-disc pl-4">
               <li>Computer Vision & Machine Learning</li>
-              <li>Signal Processing</li>
-              <li>Embedded Systems</li>
+              <li>Biomedical Imaging</li>
+              <li>Relative Labeling</li>
             </ul>
           </div>
         </div>
@@ -27,7 +27,7 @@ export function EducationSection() {
           <div className="mt-2">
             <h4 className="text-sm font-semibold">Focus Areas:</h4>
             <ul className="text-xs mt-1 space-y-1 list-disc pl-4">
-              <li>Computer Vision & Machine Learning</li>
+              <li>Deep Learning</li>
               <li>Signal Processing</li>
               <li>Embedded Systems</li>
             </ul>

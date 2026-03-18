@@ -18,7 +18,7 @@ export function AboutSection() {
 
         <div className="space-y-3 md:w-3/5">
           <p>
-            Hi, I'm Tushir, an incoming MS (CS) student at The University of Southern California.
+            Hi, I'm Tushir, a current MS (CS) student at The University of Osaka.
             I'm passionate about solving real-world problems using AI and Computer Vision.
           </p>
 
